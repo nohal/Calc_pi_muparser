@@ -1,0 +1,25 @@
+21:46:43 CEST: PlugInManager: Loading PlugIn: /usr/local/lib/opencpn/libcalculator_pi.so
+21:46:43 CEST: Error: /usr/local/lib/opencpn/libcalculator_pi.so: undefined symbol: _ZN2mu10ParserBase20DefineInfixOprtCharsEPKw
+21:46:43 CEST:    PlugInManager: Cannot load library: /usr/local/lib/opencpn/libcalculator_pi.so 
+21:46:43 CEST: PlugInManager: Loading PlugIn: /usr/local/lib/opencpn/libdashboard_pi.so
+
+files included in project:
+	src/muparser/muParser.h
+	src/muparser/muParserBase.h
+	src/muparser/muParserBytecode.h
+	src/muparser/muParserCallback.h
+	src/muparser/muParserDef.h
+	src/muparser/muParserError.h
+	src/muparser/muParserFixes.h
+	src/muparser/muParserStack.h
+	src/muparser/muParserToken.h
+	src/muparser/muParserTokenReader.h
+	src/muparser/muParser.cpp
+	src/muparser/muParserBase.cpp
+	src/muparser/muParserBytecode.cpp
+	src/muparser/muParserCallback.cpp
+	src/muparser/muParserError.cpp
+	src/muparser/muParserTokenReader.cpp 
+
+
+muparser@beltoforion.de   
