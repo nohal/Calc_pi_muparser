@@ -453,8 +453,8 @@ void Dlg::test( void )
 
     The source builds ok, however, OpenCPN does not load the library with the
     following execution error:
-    21:42:15 CEST: Error: /usr/local/lib/opencpn/libcalculator_pi.so: undefined symbol: _ZN2mu10ParserBase20DefineInfixOprtCharsEPKw
-}*/
+    21:42:15 CEST: Error: /usr/local/lib/opencpn/libcalculator_pi.so: undefined symbol: _ZN2mu10ParserBase20DefineInfixOprtCharsEPKw*/
+}
 
 wxString Dlg::OnCalculate( void )
 {
