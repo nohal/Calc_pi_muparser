@@ -449,7 +449,7 @@ void Dlg::test( void )
     mu::Parser hParser;
 
 
-    hParser.SetExpr(_("1+1*7")); /* This line causes the issue.
+    hParser.SetExpr("1+1*7"); /* Note the change of datatype...
 
     The source builds ok, however, OpenCPN does not load the library with the
     following execution error:

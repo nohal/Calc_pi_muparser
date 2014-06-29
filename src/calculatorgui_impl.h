@@ -28,6 +28,8 @@
 #ifndef _CALCULATORGUI_IMPL_H_
 #define _CALCULATORGUI_IMPL_H_
 
+#include "muparser/muParser.h"
+
 #include "wx/wxprec.h"
 
 #ifndef  WX_PRECOMP
@@ -35,7 +37,6 @@
 #endif //precompiled headers
 
 //#include "parser.h"
-#include "muparser/muParser.h"
 
 
 
